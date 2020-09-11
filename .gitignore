@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+**/hawaii_measurements.csv
+**/hawaii_stations.csv
